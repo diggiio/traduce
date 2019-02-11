@@ -1,0 +1,19 @@
+.container {
+  position: relative;
+  height: auto;
+  border: 1px solid;
+}
+
+.centrado {
+  position: absolute;
+  top: 50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+  /*border: 1px dashed deeppink;*/
+}
+
+.img-tamano {
+	width: 75%;
+	height: auto;
+}
+
